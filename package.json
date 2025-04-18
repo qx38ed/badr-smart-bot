@@ -1,0 +1,12 @@
+{
+  "name": "badr-smart-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Badr the smart assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
